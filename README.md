@@ -23,6 +23,7 @@ CKEDITOR.editorConfig = function (config) {
 
 That's all. Your CKEditor have a imgur button in insert group.
 
+## Screenshot
 ![Imgur](https://i.imgur.com/lUQQCVC.gif)
 
 
